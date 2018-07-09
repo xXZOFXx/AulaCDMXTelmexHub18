@@ -9,7 +9,6 @@ Esto es un link a  [google](https://www.google.com/).
 
 ~~esto es un mal primigenio que no debe ser despertado~~
 :cat::rainbow:
-/play nyan
 
 
 
